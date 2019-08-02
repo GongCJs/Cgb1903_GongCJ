@@ -29,9 +29,6 @@ public class Gcj_Cloneable{
 		Gcj_Cloneable0101 gc2 = (Gcj_Cloneable0101)gc1.clone();
 		System.out.println(gc1);
 		System.out.println(gc2);
-		System.out.println("ddddddddd");
-		System.out.println("DSF");
-		System.out.println("龚长江");
 	}
 }
 
