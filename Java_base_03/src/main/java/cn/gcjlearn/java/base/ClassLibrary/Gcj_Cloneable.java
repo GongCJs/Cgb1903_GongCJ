@@ -30,6 +30,7 @@ public class Gcj_Cloneable{
 		System.out.println(gc1);
 		System.out.println(gc2);
 		System.out.println("ddddddddd");
+		System.out.println("龚长江");
 	}
 }
 
