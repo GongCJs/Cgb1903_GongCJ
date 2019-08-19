@@ -10,6 +10,8 @@
     <modules>
         <module>Java_base_03</module>
         <module>SpringCloud_05</module>
+        <module>ExcelUtil</module>
+        <module>Interview_06</module>
     </modules>
     <name>Cgb1903_GongCJ</name>
 

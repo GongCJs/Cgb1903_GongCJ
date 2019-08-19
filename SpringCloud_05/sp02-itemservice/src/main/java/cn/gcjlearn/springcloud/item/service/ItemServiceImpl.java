@@ -7,6 +7,9 @@ import cn.gcjlearn.springcloud.service.ItemService;
 import org.springframework.stereotype.Service;
 import lombok.extern.slf4j.Slf4j;
 
+/**
+ * @author Gongcj
+ */
 @Slf4j
 @Service
 public class ItemServiceImpl implements ItemService {
