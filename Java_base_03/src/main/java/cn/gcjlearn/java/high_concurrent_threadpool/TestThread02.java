@@ -1,8 +1,6 @@
 package cn.gcjlearn.java.high_concurrent_threadpool;
 
-import java.io.Serializable;
-import java.util.HashMap;
-import java.util.Map;
+import java.util.concurrent.FutureTask;
 
 /**
  * @author ：GongCJ
@@ -17,6 +15,5 @@ public class TestThread02 {
 		Thread thread = new Thread();
 		thread.start();
 		System.out.println("【Thread+"+thread.getThreadGroup().getName()+"】");
-
 	}
 }
